@@ -1,0 +1,544 @@
+2025-03-05 11:35:12,351 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:35:12,353 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:35:12,354 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:35:12,354 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:35:15,647 - DEBUG - [25428] - First compilation output: This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(C:/Users/ASUS/Desktop/MERN/Overleaf/temp/ Luxoft.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def)
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def)
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
+ys2e.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5-generic-helper.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5-mapping.def)))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y))) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty)
+)) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
+y) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty)))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def)
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.
+sty) 
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.st
+y) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicode.
+tex) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\charter.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1bch.fd)
+No file " Luxoft".aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
+[1{C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ASU
+S/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/ASUS/AppD
+ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Overfull \hbox (30.0733pt too wide) in paragraph at lines 268--268
+ \T1/bch/m/n/10 github.com/aushin19/YT2Summary[][]
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.338 \end{document}
+                     [2]
+
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+
+Package lastpage Warning: \@currentHpage is
+(lastpage)                just "page." without number,
+(lastpage)                \lastpage@lastpageHy is now let empty.
+
+(C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 338.
+
+ )
+(see the transcript file for additional information)<C:/Users/ASUS/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/ASUS/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/ASUS/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/ASUS/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy9.pfb>
+Output written on "C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf" (2 pag
+es, 58622 bytes).
+Transcript written on "C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log".
+
+2025-03-05 11:35:15,648 - INFO - [25428] - Starting second pdflatex compilation
+2025-03-05 11:35:16,992 - DEBUG - [25428] - Second compilation output: This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(C:/Users/ASUS/Desktop/MERN/Overleaf/temp/ Luxoft.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def)
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def)
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
+ys2e.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5-generic-helper.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5-mapping.def)))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y))) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty)
+)) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
+y) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty)))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def)
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.
+sty) 
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.st
+y) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicode.
+tex) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\charter.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1bch.fd)
+No file " Luxoft".aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
+[1{C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ASU
+S/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/ASUS/AppD
+ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Overfull \hbox (30.0733pt too wide) in paragraph at lines 268--268
+ \T1/bch/m/n/10 github.com/aushin19/YT2Summary[][]
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.338 \end{document}
+                     [2]
+
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+
+Package lastpage Warning: \@currentHpage is
+(lastpage)                just "page." without number,
+(lastpage)                \lastpage@lastpageHy is now let empty.
+
+(C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 338.
+
+ )
+(see the transcript file for additional information)<C:/Users/ASUS/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/ASUS/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/ASUS/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/ASUS/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy9.pfb>
+Output written on "C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf" (2 pag
+es, 58622 bytes).
+Transcript written on "C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log".
+
+2025-03-05 11:35:16,992 - INFO - [25428] - PDF generated successfully
+2025-03-05 11:35:17,031 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:35:19,032 - DEBUG - [25428] - Retry 1 to remove C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:35:19,532 - DEBUG - [25428] - Retry 2 to remove C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:35:20,033 - ERROR - [25428] - Failed to remove C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf after 3 attempts: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\ASUS\\Desktop\\MERN\\Overleaf\\temp\\ Luxoft.pdf'
+2025-03-05 11:35:20,034 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:35:20,034 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:35:20,034 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:38:21,285 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:38:21,285 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:38:21,286 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:21,286 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:38:23,093 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:38:23,093 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:38:25,094 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:38:25,095 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:25,095 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:38:25,096 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:38:26,182 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:38:26,183 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:38:26,184 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:26,184 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:38:27,636 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:38:27,637 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:38:29,638 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:38:29,638 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:29,638 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:38:29,639 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:38:30,664 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:38:30,666 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:38:30,669 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:30,670 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:38:32,029 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:38:32,029 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:38:34,031 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:38:34,033 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:34,034 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:38:34,035 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:38:46,385 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:38:46,385 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:38:46,386 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:46,386 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:38:48,215 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:38:48,215 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:38:50,217 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:38:50,219 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:50,221 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:38:50,222 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:38:51,249 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:38:51,250 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:38:51,251 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:51,252 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:38:52,619 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:38:52,619 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:38:54,620 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:38:54,621 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:54,622 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:38:54,623 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:38:55,650 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:38:55,653 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:38:55,656 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:55,656 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:38:57,098 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:38:57,098 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:38:59,100 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:38:59,103 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:38:59,104 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:38:59,108 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:40:22,795 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:40:22,795 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:40:22,796 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:22,796 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:40:24,721 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:40:24,722 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:40:26,723 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:40:26,723 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:26,724 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:40:26,724 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:40:27,752 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:40:27,755 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:40:27,759 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:27,760 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:40:29,246 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:40:29,246 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:40:31,249 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:40:31,250 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:31,252 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:40:31,253 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:40:32,279 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:40:32,281 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:40:32,282 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:32,283 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:40:33,801 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:40:33,801 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:40:35,802 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:40:35,803 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:35,804 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:40:35,805 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:40:53,611 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:40:53,611 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:40:53,612 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:53,612 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:40:55,515 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:40:55,515 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:40:57,516 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:40:57,517 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:57,517 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:40:57,518 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:40:58,540 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:40:58,542 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:40:58,544 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:40:58,544 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:40:59,871 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:40:59,871 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:41:01,872 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:41:01,873 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:41:01,873 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:41:01,874 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:41:02,884 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:41:02,885 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:41:02,885 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:41:02,886 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:41:04,149 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:41:04,149 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:41:06,152 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:41:06,154 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:41:06,155 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:41:06,157 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:43:00,658 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:43:00,659 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:43:00,660 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:43:00,660 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:43:02,520 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:43:02,520 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:43:04,521 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:43:04,521 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:43:04,522 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:43:04,522 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:43:05,532 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:43:05,533 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:43:05,534 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:43:05,534 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:43:06,938 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:43:06,938 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:43:08,940 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:43:08,942 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:43:08,943 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:43:08,945 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:43:09,967 - INFO - [25428] - Starting new LaTeX conversion request
+2025-03-05 11:43:09,968 - DEBUG - [25428] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:43:09,969 - INFO - [25428] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:43:09,969 - INFO - [25428] - Starting first pdflatex compilation
+2025-03-05 11:43:11,329 - ERROR - [25428] - LaTeX compilation failed: 
+2025-03-05 11:43:11,330 - INFO - [25428] - Starting cleanup of temporary files
+2025-03-05 11:43:13,330 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.pdf
+2025-03-05 11:43:13,331 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.tex
+2025-03-05 11:43:13,331 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.aux
+2025-03-05 11:43:13,331 - DEBUG - [25428] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\ Luxoft.log
+2025-03-05 11:59:08,104 - INFO - [580] - Starting new LaTeX conversion request
+2025-03-05 11:59:08,105 - DEBUG - [580] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:59:08,106 - INFO - [580] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 11:59:08,106 - INFO - [580] - Starting first pdflatex compilation
+2025-03-05 11:59:10,199 - ERROR - [580] - LaTeX compilation failed: 
+2025-03-05 11:59:10,200 - INFO - [580] - Starting cleanup of temporary files
+2025-03-05 11:59:12,201 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.pdf
+2025-03-05 11:59:12,201 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 11:59:12,201 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.aux
+2025-03-05 11:59:12,202 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.log
+2025-03-05 11:59:13,212 - INFO - [580] - Starting new LaTeX conversion request
+2025-03-05 11:59:13,212 - DEBUG - [580] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:59:13,213 - INFO - [580] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 11:59:13,213 - INFO - [580] - Starting first pdflatex compilation
+2025-03-05 11:59:14,629 - ERROR - [580] - LaTeX compilation failed: 
+2025-03-05 11:59:14,629 - INFO - [580] - Starting cleanup of temporary files
+2025-03-05 11:59:16,632 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.pdf
+2025-03-05 11:59:16,634 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 11:59:16,636 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.aux
+2025-03-05 11:59:16,637 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.log
+2025-03-05 11:59:17,666 - INFO - [580] - Starting new LaTeX conversion request
+2025-03-05 11:59:17,667 - DEBUG - [580] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 11:59:17,669 - INFO - [580] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 11:59:17,669 - INFO - [580] - Starting first pdflatex compilation
+2025-03-05 11:59:19,076 - ERROR - [580] - LaTeX compilation failed: 
+2025-03-05 11:59:19,076 - INFO - [580] - Starting cleanup of temporary files
+2025-03-05 11:59:21,079 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.pdf
+2025-03-05 11:59:21,081 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 11:59:21,082 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.aux
+2025-03-05 11:59:21,084 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.log
+2025-03-05 12:01:18,931 - INFO - [580] - Starting new LaTeX conversion request
+2025-03-05 12:01:18,932 - DEBUG - [580] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 12:01:18,933 - INFO - [580] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 12:01:18,933 - INFO - [580] - Starting first pdflatex compilation
+2025-03-05 12:01:20,796 - ERROR - [580] - LaTeX compilation failed: 
+2025-03-05 12:01:20,797 - INFO - [580] - Starting cleanup of temporary files
+2025-03-05 12:01:22,799 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.pdf
+2025-03-05 12:01:22,801 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 12:01:22,802 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.aux
+2025-03-05 12:01:22,803 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.log
+2025-03-05 12:01:23,826 - INFO - [580] - Starting new LaTeX conversion request
+2025-03-05 12:01:23,827 - DEBUG - [580] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 12:01:23,827 - INFO - [580] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 12:01:23,827 - INFO - [580] - Starting first pdflatex compilation
+2025-03-05 12:01:25,161 - ERROR - [580] - LaTeX compilation failed: 
+2025-03-05 12:01:25,161 - INFO - [580] - Starting cleanup of temporary files
+2025-03-05 12:01:27,163 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.pdf
+2025-03-05 12:01:27,165 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 12:01:27,166 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.aux
+2025-03-05 12:01:27,168 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.log
+2025-03-05 12:01:28,193 - INFO - [580] - Starting new LaTeX conversion request
+2025-03-05 12:01:28,194 - DEBUG - [580] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 12:01:28,194 - INFO - [580] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 12:01:28,195 - INFO - [580] - Starting first pdflatex compilation
+2025-03-05 12:01:29,501 - ERROR - [580] - LaTeX compilation failed: 
+2025-03-05 12:01:29,501 - INFO - [580] - Starting cleanup of temporary files
+2025-03-05 12:01:31,503 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.pdf
+2025-03-05 12:01:31,505 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.tex
+2025-03-05 12:01:31,506 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.aux
+2025-03-05 12:01:31,506 - DEBUG - [580] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\Luxoft.log
+2025-03-05 12:02:05,524 - INFO - [9688] - Starting new LaTeX conversion request
+2025-03-05 12:02:05,524 - DEBUG - [9688] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 12:02:05,525 - DEBUG - [9688] - Generated unique filename: latex_b974e0505caa7e34
+2025-03-05 12:02:05,525 - INFO - [9688] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_b974e0505caa7e34.tex
+2025-03-05 12:02:05,525 - INFO - [9688] - Starting first pdflatex compilation
+2025-03-05 12:02:07,484 - ERROR - [9688] - LaTeX compilation failed: 
+2025-03-05 12:02:07,484 - INFO - [9688] - Starting cleanup of temporary files
+2025-03-05 12:02:09,486 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_b974e0505caa7e34.pdf
+2025-03-05 12:02:09,488 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_b974e0505caa7e34.tex
+2025-03-05 12:02:09,490 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_b974e0505caa7e34.aux
+2025-03-05 12:02:09,492 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_b974e0505caa7e34.log
+2025-03-05 12:02:10,513 - INFO - [9688] - Starting new LaTeX conversion request
+2025-03-05 12:02:10,514 - DEBUG - [9688] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 12:02:10,514 - DEBUG - [9688] - Generated unique filename: latex_cda5e9493890364a
+2025-03-05 12:02:10,515 - INFO - [9688] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_cda5e9493890364a.tex
+2025-03-05 12:02:10,515 - INFO - [9688] - Starting first pdflatex compilation
+2025-03-05 12:02:11,788 - ERROR - [9688] - LaTeX compilation failed: 
+2025-03-05 12:02:11,788 - INFO - [9688] - Starting cleanup of temporary files
+2025-03-05 12:02:13,790 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_cda5e9493890364a.pdf
+2025-03-05 12:02:13,791 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_cda5e9493890364a.tex
+2025-03-05 12:02:13,792 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_cda5e9493890364a.aux
+2025-03-05 12:02:13,792 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_cda5e9493890364a.log
+2025-03-05 12:02:14,814 - INFO - [9688] - Starting new LaTeX conversion request
+2025-03-05 12:02:14,817 - DEBUG - [9688] - Using temporary directory: C:\Users\ASUS\Desktop\MERN\Overleaf\temp
+2025-03-05 12:02:14,818 - DEBUG - [9688] - Generated unique filename: latex_f325966b1b6dca40
+2025-03-05 12:02:14,820 - INFO - [9688] - LaTeX content written to C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_f325966b1b6dca40.tex
+2025-03-05 12:02:14,821 - INFO - [9688] - Starting first pdflatex compilation
+2025-03-05 12:02:16,271 - ERROR - [9688] - LaTeX compilation failed: 
+2025-03-05 12:02:16,271 - INFO - [9688] - Starting cleanup of temporary files
+2025-03-05 12:02:18,272 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_f325966b1b6dca40.pdf
+2025-03-05 12:02:18,273 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_f325966b1b6dca40.tex
+2025-03-05 12:02:18,273 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_f325966b1b6dca40.aux
+2025-03-05 12:02:18,274 - DEBUG - [9688] - Successfully removed C:\Users\ASUS\Desktop\MERN\Overleaf\temp\latex_f325966b1b6dca40.log

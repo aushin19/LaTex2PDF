@@ -1,0 +1,4 @@
+flask
+pylatex
+werkzeug
+python-dotenv
