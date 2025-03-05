@@ -1,0 +1,5 @@
+temp/
+
+# Ignore all `.log` files
+*.log
+*.tex
